@@ -1,4 +1,4 @@
-Practica UNIR EIEC
+Practica UNIR Curso EIEC
 Este es un repositorio de práctica para el curso de Estrategias de Integración en la Empresa Contemporánea (EIEC) en la Universidad Internacional de La Rioja (UNIR).
 
 Objetivo del Proyecto

@@ -8,7 +8,7 @@ El objetivo de este proyecto es aprender y practicar el flujo de trabajo con Git
 
 Esta aplicación ordena una lista de palabras proporcionadas como argumentos de línea de comandos.
 
-## Uso: de ejemplo se van a colocar solo letras
+## Uso: de ejemplo se van a colocar solo letras en orden ascendente
 
 py ordenador_palabras.py b a c d h t u e 
 
@@ -24,3 +24,18 @@ h
 t
 u
 
+## Uso: de ejemplo se van a colocar solo letras en orden descendente
+
+py ordenador_palabras.py -r b a c d h t u e
+
+Devolverá esto:
+
+Lista ordenada:
+u
+t
+h
+e
+d
+c
+b
+a
